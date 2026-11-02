@@ -1,0 +1,18 @@
+{
+    "name":"ternari-design-patterns",
+    "version": "1.0.0",
+    "description": "Learning design patterns by consuming the Tenrai (MyAnimeList mirror) API",
+    "main": "src/index.js",
+   "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "engines": {
+        "node": ">=18"
+    },
+    "keywords": [],
+    "author": "0xMerve",
+    "license": "ISC"
+
+}
